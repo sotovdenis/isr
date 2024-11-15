@@ -4,5 +4,6 @@ class Main {
         System.out.println("Мои попытки сделать что-то значимое би лайк");
         System.out.println("бебебе бубубу пам пам пум");
         System.out.println(1 + 2);
+        System.out.println();
     }
 }
